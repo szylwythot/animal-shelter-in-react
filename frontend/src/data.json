@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Dugo",
+        "breed": "Kuvasz",
+        "sex": "kan",
+        "categories": ["kan", "kölyök"],
+        "bd": "2018.01.01.",
+        "img": "http://www.noeallatotthon.hu/gallery/pics40/dsc_0216_3.jpg",
+        "story": "Dugo kb 2018. születésű nagytestű kuvasz jellegű kan, aki a Füzesabonyi Éllatvédő Alapítvány segítségével került gondozásunkba. Érkezése után pár napra alíg bírt lábra állni, nem evett. A labor vizsálatok babesiosis és annak szövödményét mutatta ki. Több napos infúziós kezelés után állapota javult, de még utókezelésre szüksége lesz. Sajnos a bekerüléskor elvégzett szívféregtesztje is pozitív lett, ezért további vizsgálatok lesznek még. Reméljük, hogy ennyi egészségügyi probléma nem hátráltatja a családba kerülését, mert végtelenül jámbor, kedves kan, aki örül minden simogatásnak. A pórázon való sétára is megtanítható mert nem idegen tőle. Kifejezetten kutyás tapasztalattal rendelkező, aktív családnak javasoljuk. \n Nagyon szeretnénk, ha rátalálna egy Angyal, aki hazavinné magához és szeretné élete hátralevő részében."
+    },
+    {
+        "id": 2,
+        "name": "Morzsa",
+        "breed": "Németjuhász",
+        "sex": "kan",
+        "categories": ["kan", "fiatal"],
+        "bd": "2020.02.20.",
+        "img": "https://images.dog.ceo/breeds/dhole/n02115913_2338.jpg",
+        "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+        "id": 3,
+        "name": "Mázli",
+        "breed": "Foxi",
+        "sex": "szuka",
+        "categories": ["szuka", "felnőtt"],
+        "bd": "2021.01.10.",
+        "img": "https://images.dog.ceo/breeds/cockapoo/george-close-up.jpeg",
+        "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+        "id": 4,
+        "name": "Pongor",
+        "breed": "Bichon",
+        "sex": "kan",
+        "categories": ["Kan", "idős"],
+        "bd": "2019.11.24.",
+        "img": "http://noeallatotthon.hu/gallery/pics40/midi/dsc_0142_3.jpg",
+        "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+        "id": 5,
+        "name": "Ingrid",
+        "breed": "Pincsi",
+        "sex": "szuka",
+        "categories": ["szuka", "kölyök"],
+        "bd": "2020.01.01.",
+        "img": "http://noeallatotthon.hu/gallery/pics40/midi/20220401_085508.jpg",
+        "story": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit am"
+    },
+    {
+        "id": 6,
+        "name": "Nett",
+        "breed": "Vizsla",
+        "sex": "szuka",
+        "categories": ["szuka", "fiatal"],
+        "bd": "2018.05.07.",
+        "img": "http://noeallatotthon.hu/gallery/pics40/midi/image0.16_15.jpg",
+        "story": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit am"
+    }
+]

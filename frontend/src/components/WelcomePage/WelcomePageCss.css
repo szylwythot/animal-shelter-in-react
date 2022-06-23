@@ -1,0 +1,24 @@
+.welcomePage {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  font-family: "Roboto";
+}
+
+.description {
+  width: 800px;
+  padding: 60px 0 90px;
+}
+
+.fedezzfelbtn {
+  width: 200px;
+  height: 50px;
+  font-size: 26px;
+}
+
+.welcomePicture img {
+  position: absolute;
+  top: 20%;
+  right: 70px;
+  width: 700px;
+}
