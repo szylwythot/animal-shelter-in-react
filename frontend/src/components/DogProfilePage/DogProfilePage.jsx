@@ -3,8 +3,6 @@ import './DogProfilePageStyle.css';
 import DogProfileContent from './DogProfileContent';
 
 
-
-
 function DogProfilePage({ dogProfileData, selectedId }) {
 
     // const [selectedIdState, setselectedIdState] = useState(selectedId);
