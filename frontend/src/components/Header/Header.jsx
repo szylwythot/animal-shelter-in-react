@@ -93,7 +93,7 @@ function Header(props) {
               <ContactContainer>
                 <ContainerItem>
                   <AccessTime />
-                  <Typography variant="h6">Mon-Sat: 10:00 - 15:00</Typography>
+                  <Typography variant="h6">Mon - Sat: 10:00 - 15:00</Typography>
                 </ContainerItem >
                 <ContainerItem>
                   <MailOutline />

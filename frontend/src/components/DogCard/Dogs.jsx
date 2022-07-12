@@ -91,7 +91,7 @@ const Dogs = ({ list, onFilterChange, setDogs, getSelectedId }, props) => {
             <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
                 <Container maxWidth="lg">
                     <Box sx={{ flexGrow: 1 }}>
-                            <Typography variant="h2" className="subtitle" >Gazdira vágyó kutyák</Typography>
+                            <Typography variant="h2" className="subtitle" >Dogs waiting for a master</Typography>
                             <br></br>
                             <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>
                                 {dogs}

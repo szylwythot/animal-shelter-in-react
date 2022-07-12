@@ -12,7 +12,7 @@ import { height } from '@mui/system';
 
 function DogCardDetailed({ info, firstButtonFunction }) {
 
-    const { name, breed, sex, bd, img, story } = info
+    const { name, breed, sex, age, img, story } = info
 
     return (
         <Card sx={{ width: 220, boxShadow: 7 }} className="dogCard">
@@ -32,7 +32,7 @@ function DogCardDetailed({ info, firstButtonFunction }) {
                     {sex}
                 </Typography>
                 <Typography variant="button" display="block" color="text.second">
-                    Szül.: {bd}
+                 {age}
                 </Typography>
             </CardContent>
             {firstButtonFunction()}
