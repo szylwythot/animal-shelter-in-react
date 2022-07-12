@@ -1,6 +1,7 @@
 {
   "name": "your_favorite_project-react-szylwythot",
   "version": "0.1.0",
+  "homepage": "https://szylwythot.github.io/animal-shelter-in-react",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^2.13.2",
