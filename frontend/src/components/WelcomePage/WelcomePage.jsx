@@ -77,8 +77,8 @@ function WelcomePage() {
     <ThemeProvider theme={theme}>
       <WelcomePageSection className='welcomePage'>
         <WelcomeText className="text">
-          <Typography variant="h1" className="title" >Noé Állatotthon </Typography>
-          <Typography variant="h2" className="subtitle" >alapítvány</Typography>
+          <Typography variant="h1" className="title" >Noah's Ark Animal Shelter</Typography>
+          <Typography variant="h2" className="subtitle" >Foundation</Typography>
           <Typography variant="h3" className="description" >"Saving one dog will not change the world, but surely for that one dog, the world will change forever."</Typography>
           <Link activeClass="active" to="DogFilter" spy={true} smooth={true} duration={1000}>
             <Button variant="contained" className="fedezzfelbtn" style={{ fontSize: "20px" }}>Explore</Button>

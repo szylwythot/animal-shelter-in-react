@@ -88,12 +88,12 @@ function Header(props) {
                 <Link activeClass="active" to="welcomePage" spy={true} smooth={true} duration={1000}>
                   <Pets style={{ fontSize: "40px" }}/>
                 </Link>
-                <Typography variant="h2">Noé Állatotthon Alapítvány</Typography>
+                <Typography variant="h2">Noah's Ark Animal Shelter Foundation</Typography>
               </AppbarLogo>
               <ContactContainer>
                 <ContainerItem>
                   <AccessTime />
-                  <Typography variant="h6">H-Szo: 10:00 - 15:00</Typography>
+                  <Typography variant="h6">Mon-Sat: 10:00 - 15:00</Typography>
                 </ContainerItem >
                 <ContainerItem>
                   <MailOutline />
