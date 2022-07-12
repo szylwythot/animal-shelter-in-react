@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/animal-shelter-in-react/static/css/main.cbd89450.css",
+    "main.js": "/animal-shelter-in-react/static/js/main.97612772.js",
+    "static/media/HappyDog.png": "/animal-shelter-in-react/static/media/HappyDog.3ffbea5c20d5c8dab800.png",
+    "index.html": "/animal-shelter-in-react/index.html",
+    "main.cbd89450.css.map": "/animal-shelter-in-react/static/css/main.cbd89450.css.map",
+    "main.97612772.js.map": "/animal-shelter-in-react/static/js/main.97612772.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbd89450.css",
+    "static/js/main.97612772.js"
+  ]
+}
